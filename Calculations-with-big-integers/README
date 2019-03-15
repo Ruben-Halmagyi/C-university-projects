@@ -1,0 +1,8 @@
+This project can solve operations with big integers.
+Implemented:
+  - a-b
+  - a+b
+  - a*b
+  - a/b
+  - a==b
+  - a>b
