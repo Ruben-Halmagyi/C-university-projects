@@ -1,0 +1,13 @@
+Peti Kiss 1946-09-01 80081960112175 1 0 0 0 0 0 0 0 0 0 STR.RAZBOIENI_Nr.2,ARGES__RO Penitenciarul_Gherla UBB nincs Megjelenni_Klari_kurzusain nincs Kocsis_Imre NUB8256
+Jani Vass 1946-10-24 67798022716200 0 0 0 0 1 0 0 0 1 0 CAL.LUI_TRAIAN.Nr.331,VALCEA__RO szabad - Vass Heroin raktar nincs EDD8015
+Feri Vass 1948-05-14 10802417723974 0 0 0 0 0 2 0 0 0 0 Dayka_Gabor_u.8.__HU szabad - Vass Cocain nincs valaki OLD2984
+Pista Vass 1949-01-11 00010140511235 0 0 0 0 0 0 2 0 0 0 Victor_Hugo_u.37.__HU szabad - Vass alkohol nincs nincs WEE1935
+Gyuri Kelemen 1955-06-29 65471926716669 4 0 0 0 3 0 0 0 0 0 Kalman_Imre_u.45.__HU szabad kocsma nincs alkohol nincs nincs OWW0440
+Tomi Vass 1964-02-01 19402951478986 1 0 0 0 0 0 2 0 0 0 Nagytetenyi_ut_73.__HU szabad Poli Vass nincs nincs nincs BOI0151
+Isti Kiraly 1964-09-06 79052727554211 0 0 0 0 0 0 0 0 3 0 Veres_Palne_u.9.__HU szabad - nincs Adravil nincs nincs CNN0504
+Gabi Kelemen 1967-06-29 88547904079410 0 0 1 0 0 0 0 0 0 0 Kossuth_Lajos_u._75.__HU szabad - nincs Axelavier nincs nincs nincs
+Mark Kerekes 1970-07-10 06265715091237 0 0 0 0 0 0 0 1 0 0 1827_Ashton_Lane__US New_Hope_Max_Security_Prison - nincs nincs nincs nincs nincs
+Aron Kelemen 1972-11-27 55682470506563 0 0 0 0 0 0 0 0 0 4 455_Seth_Street__US Ghost_Isle_Correctional_Facility - nincs nincs nincs nincs nincs
+Pete Nagy 1982-01-26 14364969092163 0 0 0 0 0 0 0 0 0 1 91_Copthorne_Way__UK Frozen_Desert_Regional_Prison - nincs nincs nincs nincs nincs
+Petf Kerekes 1990-06-05 51064553431748 0 0 0 0 0 2 0 0 0 0 93_Iffley_Road__UK Black_Fortress_Max_Security_Prison - nincs nincs nincs nincs nincs
+Imre Kocsis 1993-11-15 99365057569640 0 1 0 2 0 0 1 0 1 0 Hollander_Strasse_9__DE Penitenciarul_Gherla Bathory nincs Cryostim nincs Kiss_Peti nincs
