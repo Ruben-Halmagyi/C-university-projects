@@ -1,0 +1,6 @@
+This project stores data in a red-black binary tree, and i tryed to simulate a database.
+Implemented functions:
+  -insert
+  -delete
+  -rotate
+  -and many more
