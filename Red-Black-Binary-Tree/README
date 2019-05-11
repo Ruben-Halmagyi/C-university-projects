@@ -1,4 +1,4 @@
-This project stores data in a red-black binary tree, and i tryed to simulate a database.
+This project stores data in a red-black binary tree, and i tried to simulate a database.
 Implemented functions:
   -insert
   -delete
